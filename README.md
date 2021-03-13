@@ -11,13 +11,16 @@
 ```
 
 ## Random Notes:
+
     * Anything inside the WEB-INF folder will be hidden from the user. 
     * Index.jsp is automatically recognised as the deafault page. 
-    * Editing Tomacat Server configuaration to change the default URL pattern to localhost:8080/:
+    
+```
+* Editing Tomacat Server configuaration to change the default URL pattern to localhost:8080/:
         * Tomcat server -> edit configurations -> deployment -> Application context -> remove the URL
         * Restart the Application
         * Page will be opened again with the URL localhost:8080/
-
+```
 ## Referred Links:
 
     * https://www.youtube.com/watch?v=0FpLve7ffoY&list=PLfu_Bpi_zcDOn8ajnuLY6g1C6hc_eeDFl
