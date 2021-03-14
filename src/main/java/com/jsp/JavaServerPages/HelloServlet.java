@@ -1,4 +1,4 @@
-package com.example.JavaServerPages;
+package com.jsp.JavaServerPages;
 
 import java.io.*;
 import javax.servlet.http.*;
