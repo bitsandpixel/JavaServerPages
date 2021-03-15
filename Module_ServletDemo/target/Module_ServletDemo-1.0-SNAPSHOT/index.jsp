@@ -8,6 +8,6 @@
 <h1><%= "Module_ServletDemo" %>
 </h1>
 <br/>
-<a href="ServletPlayground">ServletPlayground</a>
+<a href="ServletPlayground">Servlet Playground</a>
 </body>
 </html>

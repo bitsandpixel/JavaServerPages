@@ -5,7 +5,7 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "Hello World!" %>
+<h1><%= "JavaServerPages - Initial index page" %>
     <h2>Revere the machine gods!!</h2>
 </h1>
 <br/>
