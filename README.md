@@ -1,14 +1,19 @@
 # Java Server Pages
 
 * [General Information](#general-information)
+* [Modules](#modules)
 * [When to use?](#when-to-use?)
 * [Random Notes](#random-notes)
 * [Referred Links](#referred-links)
+  
 
 ## General Information
 ```
 * A playground project for java server pages and Java EE Applications
 ```
+
+## Modules
+* Servlet Demo
 
 ## Random Notes:
 
