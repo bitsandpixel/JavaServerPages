@@ -17,8 +17,8 @@
 
 ## Random Notes:
 
-    * Anything inside the WEB-INF folder will be hidden from the user. 
-    * Index.jsp is automatically recognised as the deafault page. 
+* Anything inside the **WEB-INF** folder will be hidden from the user. 
+* Index.jsp is automatically recognised as the deafault page. 
     
 ```
 * Editing Tomacat Server configuaration to change the default URL pattern to localhost:8080/:
